@@ -16,11 +16,12 @@
 
 > 训练了600轮后的效果
 
-
-![](https://pic.imgdb.cn/item/6302350316f2c2beb17fb0d8.png)
+![6302350316f2c2beb17fb0d8](https://user-images.githubusercontent.com/69743646/185793856-3546f997-54bd-4e53-8dc8-6717b4401567.png)
 
 
 > 测试精度
 
+![12356](https://user-images.githubusercontent.com/69743646/185793811-38add978-f429-4107-aec2-1b21449bbde0.PNG)
 
-![](https://pic.imgdb.cn/item/630235dc16f2c2beb1801a5f.png)
+
+
