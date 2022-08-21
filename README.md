@@ -13,8 +13,14 @@
 - 实现了基本的完数据集据导入，训练，验证，预测的过程
 
 ## 以MNIST数据集为例
+
 > 训练了600轮后的效果
+
+
 ![](https://pic.imgdb.cn/item/6302350316f2c2beb17fb0d8.png)
 
+
 > 测试精度
+
+
 ![](https://pic.imgdb.cn/item/630235dc16f2c2beb1801a5f.png)
