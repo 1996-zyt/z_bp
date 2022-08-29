@@ -1,4 +1,4 @@
-# z_dnn
+# z_bp
 
 基于Numpy动手实现一个dnn训练框架:z_dnn，支持全连接层的正反传播，支持Sigmoid和Tanh激活
 
